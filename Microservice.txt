@@ -1,8 +1,4 @@
-ChatGPT
 
-You said:
-Microservice in SA
-ChatGPT said:
 In Software Architecture (SA), a microservice refers to a small, independent, and loosely coupled service that performs a specific business function within a larger application. Each microservice runs in its own process and communicates with others through lightweight mechanisms, typically HTTP/REST or messaging queues.
 
 Key Features of Microservices in SA:
